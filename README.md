@@ -16,6 +16,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak8051&theme=algolia)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak8051&show_icons=true&locale=en&layout=compact" alt="ak8051" /></p>
 
 
