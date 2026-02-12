@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif" width="100%" height="150" style="object-fit:cover; border-radius: 10px;" />
+<img src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif" width="100%" style="height: 200px; object-fit: cover; border-radius: 10px;" />
 
   <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
   <h3 align="center">IT Student | Full Stack Developer 🚀</h3>
